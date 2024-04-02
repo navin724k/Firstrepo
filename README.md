@@ -1,2 +1,3 @@
 # Firstrepo
-First repo of my life
+First repo of GOOD START IN GIT
+NEW FILES COMMING SOON
